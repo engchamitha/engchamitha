@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### My stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=engchamitha&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engchamitha&&exclude_repo=engchamitha&layout=compact&theme=dracula" alt="languages"/>
+
 <!--
 **engchamitha/engchamitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
