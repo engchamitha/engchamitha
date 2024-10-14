@@ -50,35 +50,73 @@ I'm a passionate tech enthusiast, eager to explore the world of technology. With
 
 ---
 
-### Languages & Tool
+### Languages
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,java,cs,py,mongodb,mysql,git,github,spring,dotnet,docker,nodejs,react,vue,anaconda,eclipse,arduino,raspberrypi,bootstrap,tailwind,linux,matlab,postman,visualstudio,vscode&perline=9&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,cs,py,js,html,css,matlab&perline=9&theme=light" />
   </a>
 </p>
 
 ---
 
-<!-- ### Software and Tools
+### Front-end Frameworks/Libraries
+
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=react,vue,jquery,bootstrap,materialui&perline=9&theme=light" />
+  </a>
+</p>
 
 ---
-### Databases and Cloud Hosting
+
+### Back-end Frameworks/Libraries
+
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,spring&perline=9&theme=light" />
+  </a>
+</p>
 
 ---
-### Frontend Development Technologies and Tools
+
+### Databasess
+
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&perline=9&theme=light" />
+  </a>
+</p>
 
 ---
-### Backend Development + Database + DevOps + Deployment Technologies & Tools
+
+### Tools
+
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,androidstudio,postman,linux,docker,anaconda,raspberrypi,arduino&perline=9&theme=light" />
+  </a>
+</p>
 
 ---
-### Mobile App Development Technologies & Tools
+
+### Version Control
+
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=git,github&perline=9&theme=light" />
+  </a>
+</p>
 
 ---
-### Version Control and Tools
 
----
-### Operating Systems and Others
+<!-- ### Data Analytics Technologies
+
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=jquery,raspberrypi,postman,visualstudio,vscode&perline=9&theme=light" />
+  </a>
+</p>
 
 ---
 
@@ -114,7 +152,7 @@ I'm a passionate tech enthusiast, eager to explore the world of technology. With
 <a href="https://www.linkedin.com/in/chamitha/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Docker" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/chamitha/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Kubernetics" height="50" width="50" /></a>
 </p>
---- -->
+--- -->Others
 
 ### Connect with me:
 
